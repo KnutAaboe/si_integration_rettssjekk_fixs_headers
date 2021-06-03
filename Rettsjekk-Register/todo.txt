@@ -1,0 +1,5 @@
+﻿Todo:
+	- Fikse enviorment variable
+	- Fikse docker testing 
+	- Små puttel med maks trials og fra gitt dato input, isje fra nyeste
+
